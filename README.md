@@ -10,3 +10,15 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnansai&show_icons=true&locale=en&layout=compact" alt="krishnansai" /></p>
 
 
+
+![image](https://user-images.githubusercontent.com/65504920/204023490-e5014393-ac8b-4d96-8e45-95309c02815a.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/65504920/204023726-081d3db9-6d8f-4966-a7fc-7b3f0d0cfea4.png)
+
+
+
+![image](https://user-images.githubusercontent.com/65504920/204023847-7cc51bff-47bd-40f9-8c8f-4d8ad97ffe02.png)
+
